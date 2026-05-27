@@ -2,8 +2,6 @@
 
 ## 📊 US Economic Analytics Dashboard using Snowflake Cortex & Streamlit
 
-### Dashboard Link : https://app.snowflake.com/
-
 ---
 
 ## 📌 Problem Statement
@@ -20,13 +18,12 @@ Additionally, the integration of Snowflake Cortex enables users to ask business 
 
 ## Dashboard
 
-![Image](https://github.com/user-attachments/assets/5ecba76b-d382-4850-b1ff-cd087a19eab2)
+<img width="1910" height="982" alt="semanticmodel" src="https://github.com/user-attachments/assets/c15c9c10-6889-47a1-ac70-8397472b1138" />
 
 ---
 
-## Semantic Model
 
-![Image](https://github.com/user-attachments/assets/e34d904f-17f5-463b-8b15-e65c3bb0993e)
+<img width="1913" height="1013" alt="streamlit" src="https://github.com/user-attachments/assets/b8ed00db-2b4d-490c-8a6d-5238238a162f" />
 
 ---
 
